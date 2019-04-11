@@ -1,4 +1,4 @@
-# Information-Retrieval-in-High-Dimension
+# Curse of Dimensionality
 
 Demonstrate effect of dimensionality increase on randomly sampled vectors.
 
